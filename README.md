@@ -17,3 +17,5 @@ node[7]: ../src/node_file.cc:1425:void node::fs::RealPath(const v8::FunctionCall
  6: 0xf36d805be1d
 Aborted
 ```
+
+Note that there is a file in between requiring `appoptics-apm` and `esm` that simply does a `console.log()` to demonstrate that the process is successfully moving past appoptics-apm and onto esm.
