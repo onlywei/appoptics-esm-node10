@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/onlywei/appoptics-esm-node10/issues"
   },
-  "homepage": "https://github.com/onlywei/appoptics-esm-node10#readme"
+  "homepage": "https://github.com/onlywei/appoptics-esm-node10#readme",
+  "dependencies": {
+    "appoptics-apm": "^5.8.0",
+    "esm": "^3.0.84"
+  }
 }
