@@ -1,0 +1,19 @@
+{
+  "name": "appoptics-esm-node10",
+  "version": "1.0.0",
+  "description": "Bug repro",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onlywei/appoptics-esm-node10.git"
+  },
+  "author": "Wei Wang <wei@fastmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/onlywei/appoptics-esm-node10/issues"
+  },
+  "homepage": "https://github.com/onlywei/appoptics-esm-node10#readme"
+}
