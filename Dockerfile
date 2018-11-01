@@ -7,6 +7,6 @@ WORKDIR /testapp
 COPY package*.json ./
 RUN npm install
 
-COPY index.js .
+COPY . .
 
-CMD node -r appoptics-apm -r esm index.js
+CMD node -r appoptics-apm -r ./pre-esm.js -r esm index.js

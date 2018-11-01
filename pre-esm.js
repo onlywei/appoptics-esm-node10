@@ -1,0 +1,1 @@
+console.log('----------- requiring appoptics-apm has finished, preparing to load esm ------------')
